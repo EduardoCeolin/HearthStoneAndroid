@@ -1,0 +1,14 @@
+<resources>
+    <string name="name"><b>Nome:</b> %s \n\n</string>
+    <string name="description_flavor"><b>Descrição "flavor":</b> %s \n\n</string>
+    <string name="description_short"><b>Descrição curta:</b> %s \n\n</string>
+    <string name="set"><b>Set pertencente:</b> %s \n\n</string>
+    <string name="type"><b>Tipo:</b> %s \n\n</string>
+    <string name="faction"><b>Facção:</b> %s \n\n</string>
+    <string name="rarity"><b>Raridade:</b> %s \n\n</string>
+    <string name="attack"><b>Ataque:</b> %s \n\n</string>
+    <string name="cost"><b>Custo:</b> %s \n\n</string>
+    <string name="health"><b>Vida:</b> %s</string>
+
+    <string name="connection_error">Erro ao buscar lista de heróis. Por favor tente novamente</string>
+</resources>

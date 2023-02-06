@@ -33,7 +33,7 @@ subprojects {
                 compileSdkVersion 33
 
                 defaultConfig {
-                    minSdkVersion 22
+                    minSdkVersion 23
                     vectorDrawables.useSupportLibrary = true
                     testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
                 }

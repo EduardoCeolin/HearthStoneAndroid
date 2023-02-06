@@ -1,1 +1,6 @@
 include ':hearthstone-app'
+include ':base-architecture:core'
+include ':base-architecture:design'
+include ':base-architecture:domain'
+include ':navigation'
+include ':features:heroes-list'
