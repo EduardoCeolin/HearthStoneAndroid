@@ -1,4 +1,4 @@
-package com.ceolin.heroes_list.repository
+package com.ceolin.heroes_list.base
 
 import io.mockk.spyk
 

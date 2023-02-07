@@ -2,6 +2,7 @@ package com.ceolin.heroes_list.repository
 
 import com.ceolin.domain.network.ErrorResponse
 import com.ceolin.domain.network.State
+import com.ceolin.heroes_list.base.BaseTest
 import com.ceolin.heroes_list.domain.model.HeroesResponseItem
 import com.ceolin.heroes_list.domain.repository.HeroesListRepository
 import com.ceolin.heroes_list.domain.repository.api.HeroesListApi
