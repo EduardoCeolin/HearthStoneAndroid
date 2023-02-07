@@ -14,6 +14,7 @@ Neste projeto foi utilizado:
 - Koin 
 - StateFlow
 - Picasso
+- Clean Architeture
 
 Possíveis melhorias:
 - Banco local
